@@ -1,0 +1,15 @@
+---
+# this file is to learn yaml
+title: intro to yaml
+
+# scalar types
+string: "hello, world"
+integer: 42
+float: 3.14
+boolean: true
+null_value: null
+date: 2024-06-01
+time: 14:30:00
+datetime: 2024-06-01T14:30:00Z
+
+---
